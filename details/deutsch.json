@@ -345,6 +345,19 @@
                     ],
                     "gameType": 0,
                     "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "einstein",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "?",
+                        "?",
+                        "?"
+                    ],
+                    "gameType": 0,
+                    "cost": 0
                 }
             ]
         },

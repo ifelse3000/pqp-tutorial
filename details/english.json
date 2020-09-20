@@ -127,6 +127,15 @@
                     "wrongAnswers": [],
                     "gameType": 1,
                     "cost": 50
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "einstein",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 50
                 }
             ]
         },
